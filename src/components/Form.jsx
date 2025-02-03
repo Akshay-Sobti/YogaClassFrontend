@@ -33,7 +33,7 @@ export default function Form() {
 
   useEffect(() => {
     if (Object.keys(error).length === 0 && submit) {
-      axios.post("https://yogaclassbackend.onrender.com", user).then((res) => console.log(res.data));
+      axios.post("https://yogaclassbackend.onrender.com:10000/", user).then((res) => console.log(res.data));
 
       setUser({
         name: "",
