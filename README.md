@@ -17,3 +17,6 @@ The basic validations which I did in this project are as follows:-
 7) User must select a slot in order to make the payment.
 
 Thank you 😄
+
+![yoga](https://github.com/user-attachments/assets/607174a2-fdc7-4ee9-a063-4743e5df2556)
+
