@@ -15,4 +15,5 @@ The basic validations which I did in this project are as follows:-
 5) Contact number must consist of 10 digits.
 6) Fees should be exactly equal to Rs 500 and not below or above 500.
 7) User must select a slot in order to make the payment.
+
 Thank you 😄
